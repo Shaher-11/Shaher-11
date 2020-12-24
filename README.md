@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello there! My name is Shaher Shamroukh. 👋🤓
 
-<!--
-**Shaher-11/Shaher-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frull stack Web Developer, from Egypt. Self-starter and collaborative team player with well-honed communication and listening skills. 
+Years of experience in customer facing roles. Loves music and reading.
 
-Here are some ideas to get you started:
+You can find me on [![LinkedIn][3.2]][3].
+[2.2]: https://raw.githubusercontent.com/Shaher-11/Shaher-11/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2]: https:/www.linkedin.com/in/Shaher-Shamroukh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technologies & Tools
+![](https://img.shields.io/badge/<Language>-<Ruby>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Language>-<Javascript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+
+📈 GitHub Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Shaher-11&theme=<THEME_NAME>" />
+
+
+
