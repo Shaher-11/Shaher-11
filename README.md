@@ -1,8 +1,7 @@
 ### Hello there! My name is Shaher Shamroukh. 👋🤓
 
-I'm a Frull stack Web Developer,from Egypt. Self-starter and collaborative team player with well-honed communication and listening skills. 
-Years of experience in customer facing roles. Loves music and reading.
-
+I'm a Full-stack Web Developer, from Egypt. Self-starter and collaborative team player with well-honed communication and listening skills.
+Years of experience in customer-facing roles. Loves music and reading.
 
 🔧 Technologies & Tools
 
