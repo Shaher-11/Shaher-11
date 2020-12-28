@@ -9,7 +9,7 @@ Years of experience in customer-facing roles. Loves music and reading.
 
 ![](https://img.shields.io/badge/Language-Ruby-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Language-Rails-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Rails-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
