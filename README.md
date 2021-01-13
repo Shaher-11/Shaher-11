@@ -19,8 +19,6 @@ Years of experience in customer-facing roles. Loves music and reading.
 
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Tool-PostgresSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
