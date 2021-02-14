@@ -66,7 +66,7 @@ Years of experience in customer-facing roles. Loves music and reading.
   </a>
 
   <a href="https://github.com/Shaher-11">
-    <img height='20' src="https://img.shields.io/badge/Github-Shaher-11-red?logo=Github&logoColor=red&labelColor=black">
+    <img height='20' src="https://img.shields.io/badge/Github-Shaher-11-red?logo=Github&logoColor=red&labelColor=white">
   </a>
 
   <a href="https://twitter.com/ShaherShamroukh/">
