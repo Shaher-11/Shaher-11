@@ -39,6 +39,8 @@ Years of experience in customer-facing roles. Loves music and reading.
 
 <div/>
 
+
+
 <br>
 <br>
 <h3>
@@ -55,6 +57,8 @@ Years of experience in customer-facing roles. Loves music and reading.
   </a>
 </p>
 </h3>
+
+
 
 ### 🤝🏻  &nbsp; Let's Connect <br>
 
