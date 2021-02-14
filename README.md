@@ -1,7 +1,7 @@
 <h1><i>Hello there,fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!</i> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <h4>
- Hello there! My name is Shaher Shamroukh.
+  My name is Shaher Shamroukh.
 </h4>
  <p>I'm a Full-stack Web Developer,An aesthete, Self-starter and collaborative team player with well-honed communication and listening skills.
 Years of experience in customer-facing roles. Loves music and reading.
@@ -14,7 +14,7 @@ Years of experience in customer-facing roles. Loves music and reading.
 - 💬 Ask me about anything, I am happy to help.
 - 📄 Please have a look at my [Résumé](#) for more details about me!.
 - ⚡ Fun fact: Which came first, the chicken or the egg? JavaScript knows the answer. ["🥚","🐔"].sort() &#10145;  ["🐔", "🥚"]
-
+- 👯 Simplicity is the soul of efficiency.
 <br>
 
 <div>
