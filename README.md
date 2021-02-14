@@ -62,7 +62,7 @@ Years of experience in customer-facing roles. Loves music and reading.
 <p align="center">
  
   <a href="https://www.linkedin.com/in/shaher-shamroukh/">
-       <img height='20' src="https://img.shields.io/badge/LinkedIn-MkrtichSargsyan-blue?logo=Linkedin&logoColor=blue&labelColor=black">
+       <img height='20' src="https://img.shields.io/badge/LinkedIn-ShaherShamroukh-blue?logo=Linkedin&logoColor=blue&labelColor=black">
   </a>
 
   <a href="https://github.com/Shaher-11">
