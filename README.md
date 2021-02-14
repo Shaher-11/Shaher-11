@@ -41,7 +41,6 @@ Years of experience in customer-facing roles. Loves music and reading.
 
 <br>
 <br>
-
 <h3>
   <summary>
     📈  &nbsp; My GitHub Stats
