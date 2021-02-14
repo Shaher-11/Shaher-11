@@ -6,7 +6,7 @@
  <p>I'm a Full-stack Web Developer,An aesthete, Self-starter and collaborative team player with well-honed communication and listening skills.
 Years of experience in customer-facing roles. Loves music and reading.
 </p>
-<h3> 👨🏻‍💻 &nbsp; Talking about Personal Stuff:</h3> 
+<h3> 👨🏻‍💻 &nbsp; More About Me:</h3> 
 
 - 🔭 I’m currently a full time student at Microverse Inc.
 - 🌱 I’m currently sharpening my skills as a  Full-Stack Web Developer (Ruby on Rails, JavaScript and React and more!)
