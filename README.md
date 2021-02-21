@@ -34,7 +34,8 @@ Years of experience in customer-facing roles. Loves music and reading.
 <code><img height="40" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png"></code>
-  And counting, I always appreciate the opportunity to learn new things 
+<br>
+And counting, As I always appreciate the opportunity to learn new things 
 
 <div/>
 
