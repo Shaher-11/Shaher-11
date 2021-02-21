@@ -8,12 +8,10 @@ Years of experience in customer-facing roles. Loves music and reading.
 </p>
 <h3> 👨🏻‍💻 &nbsp; More About Me:</h3> 
 
-- 🔭 I’m currently a full time student at Microverse Inc.
-- 🌱 I’m currently sharpening my skills as a  Full-Stack Web Developer (Ruby on Rails, JavaScript and React and more!)
+- 🔭  I’m daily working on Microverse Program to sharpen my skills and deepen my understanding while developing projects in Pair Programming with developers from       all over the globe.
 - 👯 I’m looking forward to collaborate on JavaScript, React and Ruby on Rails Projects.
 - 💬 Ask me about anything, I am happy to help.
 - 📄 Please have a look at my [Résumé](#) for more details about me!.
-- ⚡ Fun fact: Which came first, the chicken or the egg? JavaScript knows the answer. ["🥚","🐔"].sort() &#10145;  ["🐔", "🥚"]
 - 👯 Simplicity is the soul of efficiency.
 <br>
 
@@ -36,6 +34,7 @@ Years of experience in customer-facing roles. Loves music and reading.
 <code><img height="40" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png"></code>
+  And counting, I always appreciate the opportunity to learn new things 
 
 <div/>
 
