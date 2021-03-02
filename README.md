@@ -18,7 +18,6 @@ Years of experience in customer-facing roles. Loves music and reading.
 <div>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?raw=true" width="500" height="200" />
-
 ### 🛠 &nbsp; Tech Stack  
 <br>
 
