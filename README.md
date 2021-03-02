@@ -13,12 +13,9 @@ Years of experience in customer-facing roles. Loves music and reading.
 - 💬 Ask me about anything, I am happy to help.
 - 📄 Please have a look at my [Résumé](#) for more details about me!.
 - 👯 Simplicity is the soul of efficiency.
-<br>
 
 <div>
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?raw=true" width="500" height="200" />
-
 
 ### 🛠 &nbsp; Tech Stack  
 <br>
