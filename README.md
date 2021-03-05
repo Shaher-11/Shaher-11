@@ -8,11 +8,12 @@ Years of experience in customer-facing roles. Loves music and reading.
 </p>
 <h3> 👨🏻‍💻 &nbsp; More About Me:</h3> 
 
-- 🔭  I’m daily working on Microverse Program to sharpen my skills and deepen my understanding while developing projects in Pair Programming with developers from       all over the globe.
-- 👯 I’m looking forward to collaborate on JavaScript, React and Ruby on Rails Projects.
-- 💬 Ask me about anything, I am happy to help.
-- 📄 Please have a look at my [Résumé](#) for more details about me!.
-- 👯 Simplicity is the soul of efficiency.
+- 🔭  I’m daily working on Microverse **program to sharpen my skills while developing projects in Pair Programming with developers from all over the globe.**
+- 👯  I’m looking forward to collaborate on **JavaScript, React, Ruby, and Ruby on Rails Projects.**
+- 💬  Ask me about **Technology, Troubleshooting, Psychology, History, Art.**
+- 📄  Please have a look at my [Résumé](#) for more details about me!.
+- ⚡  Fun fact: **The first message sent over the internet was "LOG" "LOGIN" was the original intended message but the system crashed. This was done at MIT.**
+- 👯  Principle: **Simplicity is the soul of efficiency.**
 
 <div>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?raw=true" width="500" height="200" />
