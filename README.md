@@ -4,7 +4,6 @@
   My name is Shaher Shamroukh.👋🤓
 </h4>
  <p>I'm a Full-stack Web Developer,An aesthete, Self-starter and collaborative team player with well-honed communication and listening skills.
-Years of experience in customer-facing roles. Loves music and reading.
 </p>
 <h3> 👨🏻‍💻 &nbsp; More About Me:</h3> 
 
