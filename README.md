@@ -33,7 +33,7 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png"></code>
 <br>
 
-**And counting, As I always appreciate any learning opportunity**
+**And counting, As I always appreciate any learning opportunity.**
 
 <div/>
 
