@@ -10,7 +10,6 @@
 - 🔭  I’m daily working on Microverse **program to sharpen my skills while developing projects in Pair Programming with developers from all over the globe.**
 - 👯  I’m looking forward to collaborate on **JavaScript, React, Ruby, and Ruby on Rails Projects.**
 - 💬  Ask me about **Technology, Troubleshooting, Psychology, History, Art.**
-- 📄  Please have a look at my [Résumé](#) for more details about me!.
 - ⚡  Fun fact: **The first message sent over the internet was "LOG" "LOGIN" was the original intended message but the system crashed. This was done at MIT.**
 - 👯  Principle: **Simplicity is the soul of efficiency.**
 
