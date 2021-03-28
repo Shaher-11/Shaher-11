@@ -7,10 +7,10 @@
 </p>
 <h3> 👨🏻‍💻 &nbsp; More About Me:</h3> 
 
-- 🔭  I’m daily working on Microverse **program to sharpen my skills while developing projects in Pair Programming with developers from all over the globe.**
-- 👯  I’m looking forward to collaborate on **JavaScript, React, Ruby, and Ruby on Rails Projects.**
+- 🔭  I’m daily working on **Sharpening my skills and developing projects with developers from all over the globe.**
+- 👯  I’m looking forward to collaborate on **Ruby,Ruby on Rails,JavaScript,React Projects.**
 - 💬  Ask me about **Technology, Troubleshooting, Psychology, History, Art.**
-- ⚡  Fun fact: **The first message sent over the internet was "LOG" "LOGIN" was the original intended message but the system crashed. This was done at MIT.**
+- ⚡  Fact: **Good code is like a good joke: It needs no explanation. Russ Olsen(Eloquent Ruby)**
 - 👯  Principle: **Simplicity is the soul of efficiency.**
 
 <div>
