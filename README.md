@@ -12,7 +12,7 @@
 - 👯  I’m looking forward to collaborate on **Ruby,Ruby on Rails,JavaScript,React Projects.**
 - 💬  Ask me about **Technology, Troubleshooting, Psychology, History, Art.**
 - 👯  Principle: **Simplicity is the soul of efficiency.**
-
+- 💻  <a href="https://dev.to/shahershamroukh/">View Articles</a>
 <div>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?raw=true" width="500" height="200" />
 
