@@ -8,7 +8,7 @@
 <h3> 👨🏻‍💻 &nbsp; More About Me:</h3> 
 
 - 🔭  I’m daily working on **Sharpening my skills and developing projects with developers from all over the globe.**
-- ⚡  Fact: **Good code is like a good joke: It needs no explanation. Russ Olsen(Eloquent Ruby).**
+- ⚡  Fact: **"Good code is like a good joke: It needs no explanation". Russ Olsen(Eloquent Ruby).**
 - 👯  I’m looking forward to collaborate on **Ruby,Ruby on Rails,JavaScript,React Projects.**
 - 💬  Ask me about **Technology, Troubleshooting, Psychology, History, Art.**
 - 👯  Principle: **Simplicity is the soul of efficiency.**
