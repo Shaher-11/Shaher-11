@@ -5,12 +5,12 @@
 </h4>
  <p>I'm a Full-stack Web Developer,An aesthete, Self-starter and collaborative team player with well-honed communication and listening skills.
 </p>
-<h3> 👨🏻‍💻 &nbsp; More About Me:</h3> 
+<h3> 👨🏻‍💻 &nbsp; About Me:</h3> 
 
 - 🔭  I’m daily working on **Sharpening my skills and developing projects with developers from all over the globe.**
 - ⚡  Fact: **"Good code is like a good joke: It needs no explanation". Russ Olsen(Eloquent Ruby).**
-- 👯  I’m looking forward to collaborate on **Ruby,Ruby on Rails,JavaScript,React Projects.**
-- 💬  Ask me about **Technology, Troubleshooting, Psychology, History, Art.**
+- 👯  I’m looking forward to collaborate on **Ruby,Rails,JavaScript,React Projects.**
+- 💬  Ask me about **Technology, Troubleshooting, Psychology, Ancient History, Art.**
 - 👨🏻‍💻 &nbsp; DEV Articles  <a href="https://dev.to/shahershamroukh/" target_blank>**View**</a>
 <div>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?raw=true" width="500" height="200" />
