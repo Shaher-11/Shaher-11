@@ -62,15 +62,16 @@
        <img height='20' src="https://img.shields.io/badge/LinkedIn-ShaherShamroukh-blue?logo=Linkedin&logoColor=blue&labelColor=black">
   </a>
 
-  <a href="https://twitter.com/ShaherShamroukh/">
-    <img height='20' src="https://img.shields.io/badge/Twitter-ShaherShamroukh-blue?logo=Twitter&logoColor=blue&labelColor=black">
+<a href="https://dev.to/shahershamroukh/">
+    <img height='20' src="https://img.shields.io/badge/Dev-shahershamroukh-white?logo=Dev&logoColor=White&labelColor=black">
   </a>
-
+  
   <a href="mailto:shahershamroukh@gmail.com">
     <img height='20' src="https://img.shields.io/badge/Gmail-shahershamroukh@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black">
   </a>
   
-  <a href="https://dev.to/shahershamroukh/">
-    <img height='20' src="https://img.shields.io/badge/Dev-shahershamroukh-white?logo=Dev&logoColor=White&labelColor=black">
+   <a href="https://twitter.com/ShaherShamroukh/">
+    <img height='20' src="https://img.shields.io/badge/Twitter-ShaherShamroukh-blue?logo=Twitter&logoColor=blue&labelColor=black">
   </a>
+  
 </p>
