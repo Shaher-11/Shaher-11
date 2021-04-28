@@ -71,6 +71,6 @@
   </a>
   
   <a href="https://dev.to/shahershamroukh/">
-    <img height='20' src="https://img.shields.io/badge/Dev-shahershamroukh-red?logo=Gmail&logoColor=Black&labelColor=white">
+    <img height='20' src="https://img.shields.io/badge/Dev-shahershamroukh-red?logo=Dev&logoColor=Black&labelColor=white">
   </a>
 </p>
