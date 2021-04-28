@@ -69,4 +69,8 @@
   <a href="mailto:shahershamroukh@gmail.com">
     <img height='20' src="https://img.shields.io/badge/Gmail-shahershamroukh@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black">
   </a>
+  
+  <a href="mailto:shahershamroukh@gmail.com">
+    <img height='20' src="https://img.shields.io/badge/Dev-shahershamroukh-red?logo=Gmail&logoColor=Red&labelColor=black">
+  </a>
 </p>
