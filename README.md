@@ -59,7 +59,7 @@
 <p align="center">
  
   <a href="https://www.linkedin.com/in/shaher-shamroukh/">
-       <img height='20' src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=Linkedin&logoColor=blue&labelColor=black">
+       <img height='20' src="https://img.shields.io/badge/LinkedIn-Let's Connect-blue?logo=Linkedin&logoColor=blue&labelColor=black">
   </a>
 
 <a href="https://dev.to/shahershamroukh/">
