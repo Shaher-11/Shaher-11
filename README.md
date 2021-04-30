@@ -59,11 +59,11 @@
 <p align="center">
  
   <a href="https://www.linkedin.com/in/shaher-shamroukh/">
-       <img height='20' src="https://img.shields.io/badge/LinkedIn-ShaherShamroukh-blue?logo=Linkedin&logoColor=blue&labelColor=black">
+       <img height='20' src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=Linkedin&logoColor=blue&labelColor=black">
   </a>
 
 <a href="https://dev.to/shahershamroukh/">
-    <img height='20' src="https://img.shields.io/badge/Dev-shahershamroukh-white?logo=Dev&logoColor=White&labelColor=black">
+    <img height='20' src="https://img.shields.io/badge/Dev-View Articles-white?logo=Dev&logoColor=White&labelColor=black">
   </a>
   
   <a href="mailto:shahershamroukh@gmail.com">
@@ -71,7 +71,7 @@
   </a>
   
    <a href="https://twitter.com/ShaherShamroukh/">
-    <img height='20' src="https://img.shields.io/badge/Twitter-ShaherShamroukh-blue?logo=Twitter&logoColor=blue&labelColor=black">
+    <img height='20' src="https://img.shields.io/badge/Twitter-Follow-blue?logo=Twitter&logoColor=blue&labelColor=black">
   </a>
   
 </p>
