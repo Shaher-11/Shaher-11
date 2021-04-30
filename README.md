@@ -71,7 +71,7 @@
   </a>
   
    <a href="https://twitter.com/ShaherShamroukh/">
-    <img height='20' src="https://img.shields.io/badge/Twitter-Follow-blue?logo=Twitter&logoColor=blue&labelColor=black">
+    <img height='20' src="https://img.shields.io/badge/Twitter-Follow on Twitter-blue?logo=Twitter&logoColor=blue&labelColor=black">
   </a>
   
 </p>
