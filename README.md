@@ -67,7 +67,7 @@
   </a>
   
   <a href="mailto:shahershamroukh@gmail.com">
-    <img height='20' src="https://img.shields.io/badge/Gmail-shahershamroukh@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black">
+    <img height='20' src="https://img.shields.io/badge/Gmail-Send an Email-red?logo=Gmail&logoColor=Red&labelColor=black">
   </a>
   
    <a href="https://twitter.com/ShaherShamroukh/">
