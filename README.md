@@ -54,7 +54,7 @@
 
 <br>
 
-### 🤝🏻  &nbsp; Let's Connect <br>
+### 🤝🏻  &nbsp; Let's get in touch! <br>
 
 <p align="center">
  
