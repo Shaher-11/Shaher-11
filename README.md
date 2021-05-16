@@ -11,7 +11,7 @@
 - ⚡  Fact: **"Good code is like a good joke: It needs no explanation". Russ Olsen(Eloquent Ruby).**
 - 👯  I’m looking forward to collaborate on **Ruby,Rails,JavaScript,React Projects.**
 - 💬  Ask me about **Technology, Troubleshooting, Psychology, Ancient History, Art.**
-- 👨🏻‍💻 &nbsp; DEV Articles  <a href="https://dev.to/shahershamroukh/" target_blank>**View**</a>
+- 👨🏻‍💻 &nbsp; DEV Articles  <a href="https://dev.to/shahershamroukh/" target="_blank">**View**</a>
 <div>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?raw=true" width="500" height="200" />
 
@@ -58,19 +58,19 @@
 
 <p align="center">
  
-  <a href="https://www.linkedin.com/in/shaher-shamroukh/">
+  <a href="https://www.linkedin.com/in/shaher-shamroukh/" target="_blank">
        <img height='20' src="https://img.shields.io/badge/LinkedIn-Let's Connect-blue?logo=Linkedin&logoColor=blue&labelColor=black">
   </a>
 
-<a href="https://dev.to/shahershamroukh/">
+<a href="https://dev.to/shahershamroukh/" target="_blank">
     <img height='20' src="https://img.shields.io/badge/Dev-View Articles-white?logo=Dev&logoColor=White&labelColor=black">
   </a>
   
-  <a href="mailto:shahershamroukh@gmail.com">
+  <a href="mailto:shahershamroukh@gmail.com" target="_blank">
     <img height='20' src="https://img.shields.io/badge/Gmail-Send an Email-red?logo=Gmail&logoColor=Red&labelColor=black">
   </a>
   
-   <a href="https://twitter.com/ShaherShamroukh/">
+   <a href="https://twitter.com/ShaherShamroukh/" target="_blank">
     <img height='20' src="https://img.shields.io/badge/Twitter-Follow on Twitter-blue?logo=Twitter&logoColor=blue&labelColor=black">
   </a>
   
