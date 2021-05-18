@@ -63,7 +63,7 @@
   </a>
 
 <a href="https://dev.to/shahershamroukh/" target="_blank">
-    <img height='20' src="https://img.shields.io/badge/Dev-View Articles-white?logo=Dev&logoColor=White&labelColor=black">
+    <img height='20' src="https://img.shields.io/badge/Dev-View Publications-white?logo=Dev&logoColor=White&labelColor=black">
   </a>
   
   <a href="mailto:shahershamroukh@gmail.com" target="_blank">
