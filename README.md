@@ -11,7 +11,7 @@
 - ⚡  Fact: "Good code is like a good joke: It needs no explanation". Russ Olsen(Eloquent Ruby).
 - 👯  I’m looking forward to collaborate on Ruby,Rails,JavaScript,React Projects.
 - 💬  Ask me about Technology, Troubleshooting, Psychology, Ancient History, Art.
-- 👨🏻‍💻 &nbsp; DEV Articles  <a href="https://dev.to/shahershamroukh/" target="_blank">**View**</a>
+- 👨🏻‍💻 &nbsp; DEV Publications  <a href="https://dev.to/shahershamroukh/" target="_blank">**View**</a>
 <div>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?raw=true" width="500" height="200" />
 
