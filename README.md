@@ -3,7 +3,7 @@
 <h4>
   My name is Shaher Shamroukh.👋🤓
 </h4>
- <h5>I'm a Full-stack Web Developer,An aesthete, Self-starter and collaborative team player with well-honed communication and listening skills.
+ <h5>I'm a Full-stack Web Developer,An aesthete, Self-starter and collaborative team player with well-honed communication skills.
 </h5>
 <h3> 👨🏻‍💻 &nbsp; About Me:</h3> 
 
