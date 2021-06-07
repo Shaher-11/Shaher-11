@@ -1,8 +1,8 @@
 <h1><i>Hello there!  👨🏻‍💻 👨🏻‍💻 👨🏻‍💻 </i> 
 
-<h4>
+<h2>
   My name is Shaher Shamroukh.👋🤓
-</h4>
+</h2>
  <h5>I'm a Full-Stack Web Developer,An Aesthete, Self-starter and collaborative team player with well-honed communication skills.
 </h5>
 <h3> 👨🏻‍💻 &nbsp; About Me:</h3> 
