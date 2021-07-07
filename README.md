@@ -8,7 +8,7 @@
 <h3> 👨🏻‍💻 &nbsp; About Me:</h3> 
 
 - 🔭  I’m daily working on Sharpening my skills and developing projects with developers from all over the globe.
-- 👯  I’m looking forward to collaborate on Ruby,Rails,JavaScript,React Projects.
+- 👯  I’m looking forward to collaborate on Ruby,Rails,JavaScript Projects.
 - 💬  Ask me about Technology, Troubleshooting, Psychology, Ancient History, Art.
 - 👨🏻‍💻 &nbsp; Dev Publications  <a href="https://dev.to/shahershamroukh/" target="_blank">**View**</a>
 <div>
