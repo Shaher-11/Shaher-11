@@ -5,12 +5,8 @@
 </h2>
  <h4>I'm a Full-Stack Web Developer,An Aesthete, Self-starter, and a collaborative team player with well-honed communication skills.
 </h4>
-<h3> 👨🏻‍💻 &nbsp; About Me:</h3> 
 
-- 🔭  I’m daily working on Sharpening my skills and developing projects with developers from all over the globe.
-- 👯  I’m looking forward to collaborate on Ruby,Rails,JavaScript Projects.
-- 💬  Ask me about Technology, Troubleshooting, Psychology, Ancient History, Art.
-- 👨🏻‍💻 &nbsp; Dev Publications  <a href="https://dev.to/shahershamroukh/" target="_blank">**View**</a>
+  
 <div>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?raw=true" width="500" height="200" />
 
