@@ -1,10 +1,7 @@
 <h1><i>Hello there!  👨🏻‍💻 👨🏻‍💻 👨🏻‍💻 </i> 
 
-<h2>
-  My name is Shaher Shamroukh.👋🤓
-</h2>
- <h4>I'm a Full-Stack Web Developer,An Aesthete, Self-starter, and a collaborative team player with well-honed communication skills.
-</h4>
+ <h5>I'm a Full-Stack Web Developer,An Aesthete, Self-starter, and a collaborative team player with well-honed communication skills.
+</h5>
 
   
 <div>
@@ -31,7 +28,6 @@
 <div/>
 
 <br>
-<br>
 <h3>
   <summary>
     📈  &nbsp; My GitHub Stats
@@ -46,8 +42,6 @@
   </a>
 </p>
 </h3>
-
-<br>
 
 ### 🤝🏻  &nbsp; Let's get in touch! <br>
 
