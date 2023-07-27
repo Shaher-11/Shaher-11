@@ -38,8 +38,6 @@
 
 <br>
 
-**And counting, As I always appreciate any learning opportunity.**
-
 <div/>
 
 <br>
