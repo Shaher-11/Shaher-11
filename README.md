@@ -1,6 +1,6 @@
 <h1><i>Hello there!  👨🏻‍💻 👨🏻‍💻 👨🏻‍💻 </i> 
 
- <h5>I'm a Full-Stack Web Developer,An Aesthete, Self-starter, and a collaborative team player with well-honed communication skills.
+ <h5>Ruby Developer, Self-starter, and a collaborative team player with well-honed communication skills.
 </h5>
 
   
